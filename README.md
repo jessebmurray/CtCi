@@ -5,4 +5,4 @@ The LinkedList, Queue, Binary Tree, and Min-heap are completely original. (CtCi 
 
 Stacks are easy to implement with python lists.
 
-The Min-heap and Que use the LinkedList.
+The Min-heap and Queue use the LinkedList.
